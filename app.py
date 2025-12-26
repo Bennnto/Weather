@@ -5,7 +5,7 @@ import sys
 import requests
 import datetime
 
-API_KEY = "8a1f5fbf2942163974daec756376cb99"
+API_KEY =
 
 class MainWindow(QMainWindow):
     def __init__(self):
